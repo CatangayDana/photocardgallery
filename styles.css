@@ -176,6 +176,7 @@
   {
     border-color: var(--color3);
     background-color: var(--color3);
+    margin-right:30px;
   }
   /*----------------------ARTIST ABOUT*/
   #about-section{
